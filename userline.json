@@ -1,0 +1,8 @@
+{
+	"item": [10000,20000,100000],
+  "settings": {
+    "axisx" : [ "Jun", "Jul", "Aug" ],
+	  "axisy" : [ "Min", "Max" ],
+	  "colour" : "01A8F0AA" 	
+	}
+}
